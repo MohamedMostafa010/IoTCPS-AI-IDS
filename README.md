@@ -153,6 +153,12 @@ We use the **IoTID20 Dataset** from Kaggle:
   <img src="images/output_sample1.png" alt="Image 3" width="800" />
 </div>
 
+## 📄 Report Preview
+
+<div align="center">
+
+<img src="docs/Project_GIF.gif" alt="Project Report Preview" width="550"/>
+
 ## 🎯 Project Objectives Achieved
 
 - ✅ **Security Threat Analysis**: Comprehensive study of IoT/CPS vulnerabilities
