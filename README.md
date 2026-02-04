@@ -126,7 +126,7 @@ We use the **IoTID20 Dataset** from Kaggle:
 **Dataset Link**: [IoTID20 on Kaggle](https://www.kaggle.com/datasets/rohulaminlabid/iotid20-dataset)
 
 <div align="center">
-  <img src="images/dataset_screenshot.png" alt="Image 1" width="800" />
+  <img src="images/dataset_preview.png" alt="Image 1" width="800" />
 </div>
 
 ## 🔍 Detection Capabilities
