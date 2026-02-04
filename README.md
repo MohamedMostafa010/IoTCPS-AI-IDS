@@ -65,7 +65,7 @@ IoTCPS-AI-IDS/
 │   └── Project_GIF.gif
 │
 ├── images/                   
-│   ├── architecture.png        # System architecture diagram
+│   ├── architecture.png        
 │   ├── confusion_matrix.png    # Confusion matrix visualization
 │   ├── results_screenshot.png  # Sample detection results
 │   ├── performance_metrics.png # Performance metrics chart
