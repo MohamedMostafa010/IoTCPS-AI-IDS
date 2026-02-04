@@ -159,6 +159,8 @@ We use the **IoTID20 Dataset** from Kaggle:
 
 <img src="docs/Project_GIF.gif" alt="Project Report Preview" width="550"/>
 
+</div>
+
 ## 🎯 Project Objectives Achieved
 
 - ✅ **Security Threat Analysis**: Comprehensive study of IoT/CPS vulnerabilities
