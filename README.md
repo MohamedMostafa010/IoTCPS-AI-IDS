@@ -65,11 +65,10 @@ IoTCPS-AI-IDS/
 │   └── Project_GIF.gif
 │
 ├── images/                   
-│   ├── architecture.png        
-│   ├── confusion_matrix.png    # Confusion matrix visualization
-│   ├── results_screenshot.png  # Sample detection results
-│   ├── performance_metrics.png # Performance metrics chart
-│   └── dataset_preview.png     # Dataset sample preview
+│   ├── performance_metrics.png # Performance metrics visualization 📊
+│   ├── dataset_preview.png     # Dataset sample preview (shown above) 📈
+│   ├── output_sample0.png      # First sample detection output 🔍
+│   ├── output_sample1.png      # Second sample detection output (the rest of the first sample) 🔍
 │
 └── scripts/
     └── download_dataset.py
